@@ -1,9 +1,9 @@
-import Button from "./button.jsx";
+import MyComponent from "./MyComponent.jsx";
 
 function App() {
   return (
     <>
-      <Button />
+      <MyComponent />
     </>
   );
 }
