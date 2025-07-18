@@ -1,9 +1,8 @@
-import ColorPicker from "./colorpicker.jsx";
-
+import CarObject from "./CarObject.jsx";
 function App() {
   return (
     <>
-      <ColorPicker />
+      <CarObject />
     </>
   );
 }
